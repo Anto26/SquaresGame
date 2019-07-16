@@ -1,2 +1,2 @@
 # Squares_Game
-An easy game about rotating squares, writed with C++ and Sfml graphic library
+A simple game about rotating squares, written with C++ and through SFML library.
